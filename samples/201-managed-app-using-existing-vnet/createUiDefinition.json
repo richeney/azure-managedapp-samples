@@ -99,7 +99,7 @@
                         },
                         "toolTip": {
                             "virtualNetwork": "Virtual Network Name",
-                            "subnets": "Subnet requried for Azure Application"
+                            "subnets": "Subnet required for Azure Application"
                         },
                         "defaultValue": {
                             "name": "app-vnet",
